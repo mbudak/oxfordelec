@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #9b2226 !important;
+}
+.masthead {
+    background-color: #dad7cd !important;
+    color: black !important;
+}
+
+.company-logo {
+    height: 40px;
+    fill: white;
+}
+
+.footer {
+    background-color: #023047 !important;
+}
+
+.divider-custom.divider-light .divider-custom-line {
+    background-color: #9b2226;
+  }
+  .divider-custom.divider-light .divider-custom-icon {
+    color: #9b2226;
+  }
+  
+.btn-secondary {
+    background-color: #9b2226;
+}
+
+.text-secondary {
+    color: #9b2226 !important;
+}
