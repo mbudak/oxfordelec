@@ -1,3 +1,0 @@
-# Oxford Electric #
-
-Read me file ...
